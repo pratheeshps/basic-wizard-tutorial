@@ -1,0 +1,16 @@
+.wizard-container {
+  border: 1px solid #ccc;
+}
+
+.wizard-content {
+  padding: 1rem;
+  background-color: azure;
+}
+
+.wizard-actions {
+  background-color: antiquewhite;
+}
+
+.wizard-actions button {
+  margin: 0.5rem;
+}
